@@ -1,0 +1,3 @@
+C:/Users/deado/CLionProjects/Calculator2/cmake-build-debug/CMakeFiles/Calculator2.dir
+C:/Users/deado/CLionProjects/Calculator2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/deado/CLionProjects/Calculator2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Calculator2.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\Calculator2.dir/objects.a @CMakeFiles\Calculator2.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Calculator2.dir/objects.a -Wl,--no-whole-archive -o Calculator2.exe -Wl,--out-implib,libCalculator2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Calculator2.dir\linklibs.rsp
